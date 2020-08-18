@@ -47,3 +47,18 @@ switch (namaHari) {
 }
 
 // switch case game sederhana
+
+switch (pergerakan) {
+    case "UP":
+        console.log("karakter berjalan ke atas");
+        break;
+    case "RIGHT":
+        console.log("karakter berjalan ke kanan");
+        break;
+    case "BOTTOM":
+        console.log("karakter berjalan ke bawah");
+        break;
+    case "LEFT":
+        console.log("karakter berjalan ke kiri");
+
+}
